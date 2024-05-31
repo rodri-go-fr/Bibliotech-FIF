@@ -1,0 +1,78 @@
+1 ejemplares del libro: 1 añadidos.
+2 ejemplares del libro: 1 añadidos.
+Libro removido: 31.
+4 ejemplares del libro: 30 añadidos.
+Libro añadido: ASADAD,ADADAD,2024,Drama,10.
+Libro removido: 33.
+Libro removido: .
+Usuario añadido: 2329283:sjdsjdjsdd:jsdjsjds:0:0:0.5/27/2024 8:05:27 PM
+User user returned book 1 5/27/2024 10:46:00 PM
+User user returned book 1 5/27/2024 11:06:26 PM
+User user returned book 1 5/27/2024 11:07:27 PM
+User user returned book 1 5/27/2024 11:31:30 PM
+User user returned book 1 5/27/2024 11:32:45 PM
+User user returned book 2 5/27/2024 11:33:25 PM
+User user returned book 1 5/27/2024 11:33:34 PM
+Usuario añadido: 327953:Casio58:Rodrigo Fernandez:0:0:0. 5/27/2024 11:35:23 PM
+Usuario añadido: 38393:jfjfjf:fjfjfj:0:0:0. 5/28/2024 1:29:49 PM
+Usuario añadido: 234567:Qwerty:Asies:0:0:0. 5/28/2024 1:31:06 PM
+Usuario añadido: 12345,qwerty,asdsda,0,0,0. 5/28/2024 1:35:36 PM
+Usuario añadido: 10292,qwerty,Prueba,0,0,0. 5/28/2024 1:39:46 PM
+Usuario user regreso libro id: 30 5/28/2024 1:43:38 PM
+Usuario removido: 10292. 5/28/2024 1:44:09 PM
+Libro añadido: El enigma de la habitacion 622, Joël Dicker, 2022, Thriller, 20. 5/28/2024 1:49:39 PM
+Usuario user regreso libro id: 3 5/29/2024 6:23:07 PM
+Usuario user transfirio libro id: 3 a 901234 5/29/2024 6:26:15 PM
+Usuario user transfirió libro id: 4 a 234567 5/29/2024 6:31:48 PM
+Usuario user transfirió libro id: 123456 a 123456 5/29/2024 6:38:05 PM
+Usuario user regreso libro id: 2 5/29/2024 9:51:35 PM
+Usuario user regresó libro id: 2 5/29/2024 9:53:41 PM
+Usuario user regresó libro id: 2 5/29/2024 10:08:41 PM
+Usuario user regresó libro id: 4 5/29/2024 10:09:05 PM
+Usuario user regreso libro id: 5 5/29/2024 10:11:26 PM
+Usuario user regreso libro id: 6 5/29/2024 10:11:39 PM
+Usuario user regreso libro id: 2 5/29/2024 10:11:47 PM
+Usuario user regreso libro id: 10 5/29/2024 10:14:07 PM
+Usuario user transfirió libro id: 2 a 123456 5/29/2024 10:15:38 PM
+Usuario user regreso libro id: 33 5/29/2024 10:19:21 PM
+Usuario user regreso libro id: 33 5/29/2024 10:19:45 PM
+Usuario user regreso libro id: 33 5/29/2024 10:20:05 PM
+Usuario 456789 regreso libro id: 33 5/29/2024 10:21:26 PM
+Usuario user regreso libro id: 33 5/29/2024 10:24:01 PM
+Usuario 456789 regreso libro id: 33 5/29/2024 10:24:52 PM
+Usuario 456789 regreso libro id: 33 5/29/2024 10:26:41 PM
+Usuario user regreso libro id: 33 5/29/2024 10:27:00 PM
+Usuario 123456 regreso libro id: 4 5/29/2024 10:39:03 PM
+Usuario 123456 regreso libro id: 2 5/29/2024 10:39:11 PM
+Libro añadido: El enigma de la habitacion 622, Joel Dicker, 2022, Thriller, 20. 5/29/2024 10:40:15 PM
+Usuario añadido: 123456,qwerty,Prueba,0,0,0. 5/30/2024 10:13:56 AM
+Usuario añadido: 654321,qwerty,Prueba,0,0,0. 5/30/2024 10:14:10 AM
+Usuario añadido: 123456,qwerty,Prueba,0,0,0. 5/30/2024 10:24:43 AM
+Usuario añadido: 102920, Qwerty, Prueba,0,0,0. 5/30/2024 10:28:28 AM
+Usuario añadido: 102920,Qwerty,Prueba,0,0,0. 5/30/2024 10:29:10 AM
+Usuario removido: 102920. 5/30/2024 10:29:31 AM
+Usuario removido: 123456. 5/30/2024 10:40:17 AM
+Usuario removido: 12345. 5/30/2024 10:45:35 AM
+Libro añadido: El enigma de la habitacion 622, Joel Dicker, 2022, Thriller, 20. 5/30/2024 10:48:20 AM
+Usuario 12345 regreso libro id: 4 5/30/2024 1:34:40 PM
+Usuario 12345 regreso libro id: 4 5/30/2024 1:41:29 PM
+Usuario 12345 regreso libro id: 4 5/30/2024 1:43:44 PM
+Usuario 12345 regreso libro id: 4 5/30/2024 1:44:25 PM
+Usuario 12345 regreso libro id: 4 5/30/2024 1:49:20 PM
+Usuario user regresó libro id: 2 5/30/2024 2:13:14 PM
+Usuario 12345 regresó libro id: 4 5/30/2024 2:13:48 PM
+Usuario 12345 regresó libro id: 4 5/30/2024 2:14:52 PM
+Usuario añadido: 327953,contra,Rodrigo Fernandez Rojas,0,0,0. 5/30/2024 2:26:00 PM
+Libro añadido: El enigma de la habitacion 622,Joel Dicker,2022,Thriller,10. 5/30/2024 2:28:48 PM
+5 ejemplares del libro: 34 añadidos. 5/30/2024 2:30:00 PM
+5 ejemplares del libro: 34 añadidos. 5/30/2024 2:31:01 PM
+2 ejemplares del libro: 34 retirados. 5/30/2024 2:31:38 PM
+2 ejemplares del libro: 34 añadidos. 5/30/2024 2:32:52 PM
+2 ejemplares del libro: 34 retirados. 5/30/2024 2:32:56 PM
+Usuario añadido: 3293832,sdsd,rodir,0,0,0. 5/30/2024 7:59:00 PM
+Libro removido: 12. 5/30/2024 8:11:08 PM
+Libro removido: 12. 5/30/2024 8:12:05 PM
+Usuario user regresó libro id: 25 5/30/2024 8:43:54 PM
+Usuario user regresó libro id: 25 5/30/2024 8:45:31 PM
+Usuario user regresó libro id: 30 5/30/2024 8:47:34 PM
+Usuario user transfirió libro id: 15 a 012345 5/30/2024 8:50:34 PM

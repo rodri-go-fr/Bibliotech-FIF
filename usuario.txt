@@ -1,0 +1,34 @@
+username,password,fullname,borrows,duedate,borrowed_books
+234567,password2,Jane Smith,0,0,
+345678,password3,Michael Johnson,0,0,
+456789,password4,Emily Davis,0,,
+567890,password5,Robert Wilson,0,0,
+678901,password6,Sophia Martinez,0,0,
+789012,password7,William Anderson,0,0,
+890123,password8,Isabella Thomas,0,0,
+901234,password9,James Taylor,0,0,
+012345,password10,Olivia Jones,1,6/4/2024 8:50:34 PM,15
+234567,password12,Emma Garcia,0,0,
+345678,password13,Noah Rodriguez,0,0,
+456789,password14,Ava Hernandez,0,0,
+567890,password15,Logan Martinez,0,0,
+678901,password16,Mia Young,0,0,
+789012,password17,Ethan Lee,0,0,
+890123,password18,Sofia White,0,0,
+901234,password19,Aiden Lewis,0,0,
+012345,password20,Amelia Harris,1,6/4/2024 8:50:34 PM,15
+234567,password22,Chloe Clark,0,0,
+345678,password23,Matthew Scott,0,0,
+456789,password24,Ella King,0,0,
+567890,password25,Lincoln Green,0,0,
+678901,password26,Lily Turner,0,0,
+789012,password27,Connor Thompson,0,0,
+890123,password28,Zoe Walker,0,0,
+901234,password29,Brayden Hall,0,0,
+012345,password30,Victoria Adams,1,6/4/2024 8:50:34 PM,15
+user,user,user,0,;260,;
+admin,admin,admin,0,0,
+12345,qwerty,asdsda,1,05/4/2024 10:41:14 AM;,4;
+654321,qwerty,Prueba,0,0,0
+327953,contra,Rodrigo Fernandez Rojas,0,0,0
+3293832,sdsd,rodir,0,0,0

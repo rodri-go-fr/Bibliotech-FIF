@@ -1,8 +1,6 @@
 ﻿using System.Globalization;
 using System.IO;
-using System.Security.Cryptography.X509Certificates;
 using static Program;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 internal class Program
 {
